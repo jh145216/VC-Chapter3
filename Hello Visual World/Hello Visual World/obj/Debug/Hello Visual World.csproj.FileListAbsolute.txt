@@ -1,0 +1,9 @@
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello Visual World\bin\Debug\Hello Visual World.exe.config
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello Visual World\obj\Debug\Hello Visual World.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello Visual World\obj\Debug\Hello_Visual_World.Form1.resources
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello Visual World\obj\Debug\Hello_Visual_World.Properties.Resources.resources
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello Visual World\obj\Debug\Hello Visual World.csproj.GenerateResource.Cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello Visual World\bin\Debug\Hello Visual World.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello Visual World\bin\Debug\Hello Visual World.pdb
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello Visual World\obj\Debug\Hello Visual World.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\Hello Visual World\obj\Debug\Hello Visual World.pdb
