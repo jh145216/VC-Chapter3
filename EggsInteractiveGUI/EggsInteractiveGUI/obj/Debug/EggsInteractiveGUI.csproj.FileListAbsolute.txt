@@ -7,3 +7,12 @@ C:\Users\jh145216\AppData\Local\Temporary Projects\EggsInteractiveGUI\bin\Debug\
 C:\Users\jh145216\AppData\Local\Temporary Projects\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.pdb
 C:\Users\jh145216\AppData\Local\Temporary Projects\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.exe
 C:\Users\jh145216\AppData\Local\Temporary Projects\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.pdb
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter3\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe.config
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.exe
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.pdb
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter3\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter3\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.pdb
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Form1.resources
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Properties.Resources.resources
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csproj.GenerateResource.Cache

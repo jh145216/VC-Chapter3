@@ -41,9 +41,9 @@
             // lblResults
             // 
             this.lblResults.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblResults.Location = new System.Drawing.Point(100, 217);
+            this.lblResults.Location = new System.Drawing.Point(12, 217);
             this.lblResults.Name = "lblResults";
-            this.lblResults.Size = new System.Drawing.Size(165, 23);
+            this.lblResults.Size = new System.Drawing.Size(253, 23);
             this.lblResults.TabIndex = 15;
             // 
             // label1

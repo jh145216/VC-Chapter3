@@ -20,6 +20,8 @@ namespace EggsInteractiveGUI
         private void btnClickToCalculate_Click(object sender, EventArgs e)
         {
             int eggs;
+            int dozens;
+            int eLeft;
             int chick1;
             int chick2;
             int chick3;
@@ -32,17 +34,22 @@ namespace EggsInteractiveGUI
             string number5;
 
             number1 = txtChicken1.Text;
-           chick1 = Convert.ToInt32(number1);
-           number2 = txtChicken2.Text;
-           chick2 = Convert.ToInt32(number2);
-           number3 = txtChicken3.Text;
-           chick3 = Convert.ToInt32(number3);
-           number4 = txtChicken4.Text;
-           chick4 = Convert.ToInt32(number4);
-           number5 = txtChicken5.Text;
-           chick5 = Convert.ToInt32(number5);
+            chick1 = Convert.ToInt32(number1);
+            number2 = txtChicken2.Text;
+            chick2 = Convert.ToInt32(number2);
+            number3 = txtChicken3.Text;
+            chick3 = Convert.ToInt32(number3);
+            number4 = txtChicken4.Text;
+            chick4 = Convert.ToInt32(number4);
+            number5 = txtChicken5.Text;
+            chick5 = Convert.ToInt32(number5);
 
-          eggs = chick1 + chick2 + chick3 + chick4 + chick5;
+            eggs = chick1 + chick2 + chick3 + chick4 + chick5;
+            dozens = eggs / 12;
+            eLeft = eggs % dozens;
+
+
+            lblResults.Text = eggs + " eggs is " + dozens + " dozen with " + eLeft + " left over.";
         }
     }
 }
